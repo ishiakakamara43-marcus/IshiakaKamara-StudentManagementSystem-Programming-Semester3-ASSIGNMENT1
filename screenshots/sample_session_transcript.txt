@@ -1,0 +1,197 @@
+Note: records are kept in memory only and are lost on exit.
+
+===== STUDENT RESULTS MANAGEMENT SYSTEM =====
+ 1. Register student
+ 2. View all students
+ 3. Search for a student
+ 4. Update student details
+ 5. Add course
+ 6. Record examination result
+ 7. View a student's results
+ 8. View all examination results
+ 9. Display summary statistics
+10. Exit
+Choose an option (1-10): Student ID (e.g. STU001): Full name: Programme (e.g. Diploma in IT): Student STU010 registered.
+
+===== STUDENT RESULTS MANAGEMENT SYSTEM =====
+ 1. Register student
+ 2. View all students
+ 3. Search for a student
+ 4. Update student details
+ 5. Add course
+ 6. Record examination result
+ 7. View a student's results
+ 8. View all examination results
+ 9. Display summary statistics
+10. Exit
+Choose an option (1-10): Student ID (e.g. STU001): Full name: Programme (e.g. Diploma in IT): A student with ID STU010 already exists.
+
+===== STUDENT RESULTS MANAGEMENT SYSTEM =====
+ 1. Register student
+ 2. View all students
+ 3. Search for a student
+ 4. Update student details
+ 5. Add course
+ 6. Record examination result
+ 7. View a student's results
+ 8. View all examination results
+ 9. Display summary statistics
+10. Exit
+Choose an option (1-10): Enter student ID:   Student ID : STU010
+  Name       : Kadiatu Conteh
+  Programme  : Diploma in IT
+  Courses    : None yet
+
+===== STUDENT RESULTS MANAGEMENT SYSTEM =====
+ 1. Register student
+ 2. View all students
+ 3. Search for a student
+ 4. Update student details
+ 5. Add course
+ 6. Record examination result
+ 7. View a student's results
+ 8. View all examination results
+ 9. Display summary statistics
+10. Exit
+Choose an option (1-10): Enter student ID: No student found with that ID.
+
+===== STUDENT RESULTS MANAGEMENT SYSTEM =====
+ 1. Register student
+ 2. View all students
+ 3. Search for a student
+ 4. Update student details
+ 5. Add course
+ 6. Record examination result
+ 7. View a student's results
+ 8. View all examination results
+ 9. Display summary statistics
+10. Exit
+Choose an option (1-10): Student ID to update: Leave a field blank to keep the old value.
+New name: New programme: Student details updated.
+
+===== STUDENT RESULTS MANAGEMENT SYSTEM =====
+ 1. Register student
+ 2. View all students
+ 3. Search for a student
+ 4. Update student details
+ 5. Add course
+ 6. Record examination result
+ 7. View a student's results
+ 8. View all examination results
+ 9. Display summary statistics
+10. Exit
+Choose an option (1-10): Course code (e.g. PROG211): Course title: Course PROG211 added.
+
+===== STUDENT RESULTS MANAGEMENT SYSTEM =====
+ 1. Register student
+ 2. View all students
+ 3. Search for a student
+ 4. Update student details
+ 5. Add course
+ 6. Record examination result
+ 7. View a student's results
+ 8. View all examination results
+ 9. Display summary statistics
+10. Exit
+Choose an option (1-10): Student ID: Course code: Mark (0-100): Mark must be between 0 and 100.
+
+===== STUDENT RESULTS MANAGEMENT SYSTEM =====
+ 1. Register student
+ 2. View all students
+ 3. Search for a student
+ 4. Update student details
+ 5. Add course
+ 6. Record examination result
+ 7. View a student's results
+ 8. View all examination results
+ 9. Display summary statistics
+10. Exit
+Choose an option (1-10): Student ID: Course code: Mark (0-100): Result saved. Grade: B
+
+===== STUDENT RESULTS MANAGEMENT SYSTEM =====
+ 1. Register student
+ 2. View all students
+ 3. Search for a student
+ 4. Update student details
+ 5. Add course
+ 6. Record examination result
+ 7. View a student's results
+ 8. View all examination results
+ 9. Display summary statistics
+10. Exit
+Choose an option (1-10): Student ID: Course code: Mark (0-100): No student found with ID GHOST.
+
+===== STUDENT RESULTS MANAGEMENT SYSTEM =====
+ 1. Register student
+ 2. View all students
+ 3. Search for a student
+ 4. Update student details
+ 5. Add course
+ 6. Record examination result
+ 7. View a student's results
+ 8. View all examination results
+ 9. Display summary statistics
+10. Exit
+Choose an option (1-10): Student ID: Results for Kadiatu Conteh:
+  Student    Course     Mark   Grade
+  STU010     PROG211    78.5   B
+  Average mark: 78.5
+
+===== STUDENT RESULTS MANAGEMENT SYSTEM =====
+ 1. Register student
+ 2. View all students
+ 3. Search for a student
+ 4. Update student details
+ 5. Add course
+ 6. Record examination result
+ 7. View a student's results
+ 8. View all examination results
+ 9. Display summary statistics
+10. Exit
+Choose an option (1-10):   Student    Course     Mark   Grade
+  STU010     PROG211    78.5   B
+
+===== STUDENT RESULTS MANAGEMENT SYSTEM =====
+ 1. Register student
+ 2. View all students
+ 3. Search for a student
+ 4. Update student details
+ 5. Add course
+ 6. Record examination result
+ 7. View a student's results
+ 8. View all examination results
+ 9. Display summary statistics
+10. Exit
+Choose an option (1-10):   Students registered : 1
+  Courses available   : 1
+  Results recorded    : 1
+  Average mark        : 78.5
+  Highest / Lowest    : 78.5 / 78.5
+  Student objects created (class method): 1
+  Course objects created  (class method): 1
+
+===== STUDENT RESULTS MANAGEMENT SYSTEM =====
+ 1. Register student
+ 2. View all students
+ 3. Search for a student
+ 4. Update student details
+ 5. Add course
+ 6. Record examination result
+ 7. View a student's results
+ 8. View all examination results
+ 9. Display summary statistics
+10. Exit
+Choose an option (1-10): Invalid choice. Please type a number from 1 to 10.
+
+===== STUDENT RESULTS MANAGEMENT SYSTEM =====
+ 1. Register student
+ 2. View all students
+ 3. Search for a student
+ 4. Update student details
+ 5. Add course
+ 6. Record examination result
+ 7. View a student's results
+ 8. View all examination results
+ 9. Display summary statistics
+10. Exit
+Choose an option (1-10): Goodbye! (Remember: records were not saved.)
