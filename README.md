@@ -4,7 +4,7 @@ PROG211 Object-Oriented Programming 1 - Individual Assignment
 (Assignment title: *Real-World Solutions under DPG Standards*)
 Domain: **Education** | Language: **Python 3.8+** (tested on 3.12) | No third-party packages
 
-Author: `<YOUR NAME>` - Student No: `<YOUR STUDENT NUMBER>`
+Author: Ishiaka Kamara - Student No: 905006276
 
 ## 1. Overview and problem statement
 Schools often record student marks on paper or in scattered spreadsheets, which causes
@@ -116,7 +116,7 @@ screenshots/   (add your own screenshots here)
 ```
 
 ## 16. GitHub
-Repository: `<PASTE YOUR GITHUB URL HERE>` - lecturer added as collaborator: `<fill in after you do it>`.
+Repository: `https://github.com/ishiakakamara43-marcus/IshiakaKamara-StudentManagementSystem-Programming-Semester3-ASSIGNMENT1/` - lecturer added as collaborator: `<fill in after you do it>`.
 
 ## 17. Authorship
-Written for PROG211 at Limkokwing University of Creative Technology, Sierra Leone. `<Confirm in your own words what you wrote or adapted.>`
+Written for PROG211 at Limkokwing University of Creative Technology, Sierra Leone. `<I wrote this project for PROG211 using what I learned in Lectures 1 to 3 on classes, dictionaries and methods. I wrote [the Student and Course classes / the menu in main.py / the tests / describe your part] myself. I used [ChatGPT / Claude / a tutorial / a classmate's advice] to help with [generating the starting code / debugging / the grading logic / writing the README / the tests], and I reviewed and understood that code before submitting. I can explain how every part of the program works.>`
